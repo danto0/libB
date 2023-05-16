@@ -1,7 +1,9 @@
 package com.example.libB;
 
 import com.example.lib.WRCar;
+// can't import guava classes
 //import com.google.common.base.*;
+
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
